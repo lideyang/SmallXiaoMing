@@ -1,0 +1,16 @@
+{
+  "pages": [
+    "pages/index/main",
+    "pages/logs/main"  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#ed3f14",
+    "navigationBarTitleText": "车贷计算器",
+    "navigationBarTextStyle": "white"
+  },
+  "usingComponents": {
+    "i-input": "../../static/iview/dist/input/index",
+    "i-button": "../../static/iview/dist/button/index",
+    "i-cell": "../../static/iview/dist/cell/index"
+  }
+}
